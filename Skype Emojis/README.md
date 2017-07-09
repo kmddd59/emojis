@@ -52,7 +52,7 @@
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/pizza.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/puke.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/rofl.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/sad.png
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/sad.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/shake.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/sleepy.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/smile.png)
@@ -73,6 +73,6 @@
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/whew.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/wink.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/wonder.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/worry.png
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/worry.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/yawn.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/yes.png)
