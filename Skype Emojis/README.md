@@ -13,9 +13,9 @@
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/cake.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/cash.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/clap.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/coffee.png)
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/cool.png)
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/Crying.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/
