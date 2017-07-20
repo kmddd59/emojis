@@ -352,7 +352,7 @@
 
 <br><br><br>
 
-#Pride Heart Flag Emojis
+# Pride Heart Flag Emojis
 
 <br><br><br>
 
