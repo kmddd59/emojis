@@ -1,4 +1,4 @@
-# Emojis
+# 
 
 <br><br><br>
 
@@ -393,3 +393,5 @@
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_sapphic.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_trans.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_trigender.png)
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/rainbowdisability.png)
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_autistic.png)
