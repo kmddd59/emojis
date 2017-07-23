@@ -1,4 +1,9 @@
-# 
+#Emoji List
+
+Here you will find a list of emojis that are in the GitHub project if you wish to use this 
+please credit me i have taken a lot of time to make this repo the blobs (not done yet) are
+the hardest part as i have over 170 that are un-named so i need to rename them once done 
+this will be the only list that i know of that will have named blob emojis
 
 <br><br><br>
 
@@ -357,6 +362,7 @@
 
 <br><br><br>
 
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/Animated Pride.gif)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_achillean.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_agender.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_agenderflux.png)
@@ -396,3 +402,5 @@
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_trigender.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/rainbowdisability.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_autistic.png)
+
+<br><br><br>

@@ -2,6 +2,7 @@
 
 <br><br><br>
 
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/Animated Pride.gif)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_achillean.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_agender.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_agenderflux.png)
@@ -41,3 +42,5 @@
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_trigender.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/rainbowdisability.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_autistic.png)
+
+<br><br><br>
