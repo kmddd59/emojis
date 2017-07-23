@@ -362,7 +362,7 @@ this will be the only list that i know of that will have named blob emojis
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/Animated Pride.gif)
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/Animated%20Pride.gif)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_achillean.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_agender.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_agenderflux.png)
