@@ -1,11 +1,10 @@
-# emojis
+# Blobs emojis
 
-# Blobs
+<br><br><br>
 
 Since there seems to be quite some demand for google-emojis (aka "blobs") recently,<br>
-here's an appendix of this list just for blobs c:
+here's an appendix of this list just for blobs
 
-**This part of the list is not yet curated**
 <br><br><br>
 
 ![](https://cdn.discordapp.com/emojis/317006481021206529.png) <!-- b1nzyblob -->
