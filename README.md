@@ -355,6 +355,7 @@ this will be the only list that i know of that will have named blob emojis
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolysexualPride.png)
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemisexualPride.png)
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobUSAPride.png)
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSwitzerlandPride.png)
 
 <br><br><br>
 
