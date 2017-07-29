@@ -103,15 +103,15 @@ the hardest part as i had over 170 that didn't have names so i needed to rename 
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/ace_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/aro_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/bi_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/gq_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/intersex_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/nb_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/pan_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/rainbow_flower.png)
-![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/trans_flower.png)
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/ace_flower.png "ace_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/aro_flower.png "aro_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/bi_flower.png "bi_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/gq_flower.png "gq_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/intersex_flower.png "intersex_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/nb_flower.png "nb_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/pan_flower.png "pan_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/rainbow_flower.png "rainbow_flower")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Flower%20Emojis/trans_flower.png "trans_flower")
 
 <br><br><br>
 
@@ -119,14 +119,14 @@ the hardest part as i had over 170 that didn't have names so i needed to rename 
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbPride.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbangry.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbheart.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fblaugh.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fblike.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbsad.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbthankfull.png)
-![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbwow.png)
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbPride.png "fbPride")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbangry.png "fbAngery")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbheart.png "fbHeart")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fblaugh.png "fbLaugh")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fblike.png "fbLike")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbsad.png "fbSad")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbthankfull.png "fbThankfull")
+![](https://github.com/kmddd59/emojis/raw/master/Facebook%20reaction%20emojis/fbwow.png "fbWow")
 
 <br><br><br>
 
@@ -134,10 +134,10 @@ the hardest part as i had over 170 that didn't have names so i needed to rename 
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/CatBlep.png)
-![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/GrumpyCat.png)
-![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/Meowow.png)
-![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/WohCat.png)
+![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/CatBlep.png "CatBlep")
+![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/GrumpyCat.png "GrumpyCat")
+![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/Meowow.png "Meowow")
+![](https://github.com/kmddd59/emojis/raw/master/Cat%20Emojis/WohCat.png "WohCat")
 
 <br><br><br>
 
