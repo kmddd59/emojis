@@ -1,9 +1,8 @@
 #Emoji List
 
 Here you will find a list of emojis that are in the GitHub project if you wish to use this 
-please credit me i have taken a lot of time to make this repo the blobs (not done yet) are
-the hardest part as i have over 170 that are un-named so i need to rename them once done 
-this will be the only list that i know of that will have named blob emojis
+please credit me i have taken a lot of time to make this repo the blobs are
+the hardest part as i had over 170 that didn't have names so i needed to rename them
 
 <br><br><br>
 
@@ -11,7 +10,7 @@ this will be the only list that i know of that will have named blob emojis
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookGoogle.png)
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookGoogle.png "AddresBookGoogle")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookYahoo.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angel.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angry.png)
