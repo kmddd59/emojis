@@ -10,12 +10,12 @@ the hardest part as i had over 170 that didn't have names so i needed to rename 
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookGoogle.png "AddresBookGoogle")
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookYahoo.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angel.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angry.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/bandit.png)
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/beer.png)
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookGoogle.png "Google")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookYahoo.png "Yahoo")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angel.png "Angel")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angry.png "Angry")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/bandit.png "Bandit")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/beer.png "Beer")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/blush.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/bow.png)
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/cake.png)
