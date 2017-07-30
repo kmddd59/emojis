@@ -1,8 +1,8 @@
 #Emoji List
 
-Here you will find a list of emojis that are in the GitHub project if you wish to use this 
-please credit me i have taken a lot of time to make this repo the blobs are
-the hardest part as i had over 170 that didn't have names so i needed to rename them
+Here you will find a list of emojis that are in the GitHub project. If you wish to use this 
+please credit me. I have taken a lot of time to make this repo. The blobs are
+the hardest part as i had over 170 that didn't have names. so i needed to rename them.
 
 <br><br><br>
 
@@ -354,6 +354,12 @@ the hardest part as i had over 170 that didn't have names so i needed to rename 
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobGenderQuestioningPride.png "BlobGenderQuestioningPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolysexualPride.png "BlobPolysexualPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemisexualPride.png "BlobDemisexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemiagenderPride.png "BlobDemiagenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDeminonbinaryPride.png "BlobDeminonbinaryPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobMaveriquePride.png "BlobMaveriquePride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobNeurogenderPride.png "BlobNeurogenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobNeutroisPride.png "BlobNeutroisPride.png")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSapphicPride.png "BlobSapphicPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobUSAPride.png "BlobUSAPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSwitzerlandPride.png "BlobSwitzerlandPride")
 
