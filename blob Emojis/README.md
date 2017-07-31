@@ -2,8 +2,9 @@
 
 <br><br><br>
 
-Since there seems to be quite some demand for google-emojis (aka "blobs") recently,<br>
-here's an appendix of this list just for blobs
+Since there seems to be quite some demand for google-emojis (aka "blobs")<br>
+here's an appendix of this list just for blobs.<br>
+A list of my "pride" blobs is at the bottom.
 
 <br><br><br>
 
@@ -184,3 +185,47 @@ here's an appendix of this list just for blobs
 ![](https://cdn.discordapp.com/emojis/317006960245342219.png) <!-- blobsplosion -->
 ![](https://cdn.discordapp.com/emojis/317006960455057418.png) <!-- blobhyperthink -->
 ![](https://cdn.discordapp.com/emojis/317006960644063233.png) <!-- blobsnuggle -->
+
+<br><br><br>
+
+# Blob Pride Emojis
+
+<br><br><br>
+
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAchilleanPride.png "BlobAchilleanPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolamoryPride.png "BlobPolamoryPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAgenderFluxPride.png "BlobAgenderFluxPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAgenderPride.png "BlobAgenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAmbonecPride.png "BlobAmbonecPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAndrogynePride.png "BlobAndrogynePride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAquarigenderPride.png "BlobAquarigenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobArofluxPride.png "BlobArofluxPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAromanticPride.png "BlobAromanticPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAsexualPride.png "BlobAsexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAutigenderPride.png "BlobAutigenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBigenderPride.png "BlobBigenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBisexualPride.png "BlobBisexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemiboyPride.png "BlobDemiboyPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemigirlPride.png "BlobDemiboyPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobLesbianPride.png "BlobLesbianPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobNonbinaryPride.png "BlobNonbinaryPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPansexualPride.png "BlobPansexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobRainbowPride.png "BlobRainbowPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobRainbowPrideOldFlag.png "BlobRainbowPrideOldFlag")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobTrans.png "BlobTransgenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobThinkingTrans.png "BlobThinkingTransgenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobGenderQuestioningPride.png "BlobGenderQuestioningPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolysexualPride.png "BlobPolysexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemisexualPride.png "BlobDemisexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemiagenderPride.png "BlobDemiagenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDeminonbinaryPride.png "BlobDeminonbinaryPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobMaveriquePride.png "BlobMaveriquePride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobNeurogenderPride.png "BlobNeurogenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobNeutroisPride.png "BlobNeutroisPride.png")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSapphicPride.png "BlobSapphicPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobGenderfluidPride.png "BlobGenderfluidPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAsexualPanromanticPride.png "BlobAsexualPanromanticPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobUSAPride.png "BlobUSAPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSwitzerlandPride.png "BlobSwitzerlandPride")
+
+<br><br><br>
