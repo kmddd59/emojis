@@ -467,8 +467,8 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/tree/master/Discord%20Server%20Emotes/ohdiscordxo/jenWine.png "jenWine")
-![](https://github.com/kmddd59/emojis/tree/master/Discord%20Server%20Emotes/ohdiscordxo/jenHYPE.png "jenHYPE")
-![](https://github.com/kmddd59/emojis/tree/master/Discord%20Server%20Emotes/ohdiscordxo/jenLips.png "jenLips")
+![](https://github.com/kmddd59/emojis/raw/master/Discord%20Server%20Emotes/ohdiscordxo/jenWine.png "jenWine")
+![](https://github.com/kmddd59/emojis/raw/master/Discord%20Server%20Emotes/ohdiscordxo/jenHYPE.png "jenHYPE")
+![](https://github.com/kmddd59/emojis/raw/master/Discord%20Server%20Emotes/ohdiscordxo/jenLips.png "jenLips")
 
 <br><br><br>
