@@ -12,6 +12,8 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookGoogle.png "Google")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/AddresBookYahoo.png "Yahoo")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/CurrentLocation.png "Current Location")
+![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/Crying.png "Crying")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angel.png "Angel")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/angry.png "Angry")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/bandit.png "Bandit")
@@ -23,8 +25,6 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/clap.png "Clap")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/coffee.png "Coffee")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/cool.png "Cool")
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/Crying.png "Crying")
-![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/CurrentLocation.png "Current Location")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/dance.png "Dance")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/devil.png "Devil")
 ![](https://github.com/kmddd59/emojis/raw/master/Skype%20Emojis/doh.png "Doh")
