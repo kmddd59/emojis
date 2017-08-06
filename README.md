@@ -365,6 +365,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAgenderAsexualPanromanticPride.png "BlobAgenderAsexualPanromanticPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobUSAPride.png "BlobUSAPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSwitzerlandPride.png "BlobSwitzerlandPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobFrancePride.png "BlobFrancePride")
 
 <br><br><br>
 
