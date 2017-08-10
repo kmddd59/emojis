@@ -412,6 +412,8 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_sapphic.png "heartflag_sapphic")
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_trans.png "heartflag_trans")
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_trigender.png "heartflag_trigender")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_nonbinaryboy.png "heartflag_nonbinaryboy")
+![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_nonbinarygirl.png  "heartflag_nonbinarygirl")
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/rainbowdisability.png "rainbowdisability")
 ![](https://github.com/kmddd59/emojis/raw/master/Pride%20Heart%20Flag%20Emojis/heartflag_autistic.png "heartflag_autistic")
 
