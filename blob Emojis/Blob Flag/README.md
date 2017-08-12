@@ -15,6 +15,7 @@
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAutigenderPride.png "BlobAutigenderPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBigenderPride.png "BlobBigenderPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBisexualPride.png "BlobBisexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBisexualPride2.png "BlobBisexualPride alternate version")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemiboyPride.png "BlobDemiboyPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemigirlPride.png "BlobDemiboyPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobLesbianPride.png "BlobLesbianPride")
