@@ -1,4 +1,4 @@
-#Emoji List
+# Emoji List
 
 Here you will find a list of emojis that are in the GitHub project. If you wish to use this 
 please credit me. I have taken a lot of time to make this repo. The blobs are
