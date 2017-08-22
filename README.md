@@ -322,6 +322,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://cdn.discordapp.com/emojis/317006960245342219.png "blobsplosion")
 ![](https://cdn.discordapp.com/emojis/317006960455057418.png "blobhyperthink")
 ![](https://cdn.discordapp.com/emojis/317006960644063233.png "blobsnuggle")
+![](https://cdn.discordapp.com/attachments/323434381857390596/349690180946362371/blobangrynotify.png "blobangrynotify")"
 
 <br><br><br>
 

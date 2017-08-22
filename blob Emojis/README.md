@@ -104,6 +104,7 @@ A list of my "pride" blobs is at the bottom.
 ![](https://cdn.discordapp.com/emojis/317006654803673109.png "blobthinkingeyes")
 ![](https://cdn.discordapp.com/emojis/317006654816124938.png "rickblob")
 ![](https://cdn.discordapp.com/emojis/317006654866456576.png "gentleblob")
+![](https://cdn.discordapp.com/attachments/323434381857390596/349690180946362371/blobangrynotify.png "blobangrynotify")"
 ![](https://cdn.discordapp.com/emojis/317006655126503434.png "rainblob")
 ![](https://cdn.discordapp.com/emojis/317006655457984512.png "blobpoliceangry")
 ![](https://cdn.discordapp.com/emojis/317006655470698506.png "bloblul")
