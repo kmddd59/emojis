@@ -328,11 +328,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 # Blob Pride Emojis
 
-## Download my iOS sticker pack that contains all the emojis shown here
-
-<br><br><br>
-
-[Install](http://apple.co/2wSYpnN)
+## Download my iOS sticker pack that contains all the emojis shown [Here] (http://apple.co/2wSYpnN)
 
 <br><br><br>
 
