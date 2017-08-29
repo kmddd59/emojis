@@ -332,7 +332,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
-![](http://apple.co/2wSYpnN)
+[Install](http://apple.co/2wSYpnN)
 
 <br><br><br>
 
@@ -494,6 +494,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 <br><br><br>
 
 ## Used Discord SelfBot to download a all my emojis
+
 
 <br><br><br>
 
