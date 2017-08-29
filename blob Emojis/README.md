@@ -195,7 +195,7 @@ A list of my "pride" blobs is at the bottom.
 
 <br><br><br>
 
-![](http://apple.co/2wSYpnN)
+[Install](http://apple.co/2wSYpnN)
 
 <br><br><br>
 
