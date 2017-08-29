@@ -191,6 +191,12 @@ A list of my "pride" blobs is at the bottom.
 
 # Pride Blob Emojis
 
+## Download my iOS sticker pack that contains all the emojis shown here
+
+<br><br><br>
+
+![](http://apple.co/2wSYpnN)
+
 <br><br><br>
 
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAchilleanPride.png "BlobAchilleanPride")
