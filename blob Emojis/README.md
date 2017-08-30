@@ -191,7 +191,18 @@ A list of my "pride" blobs is at the bottom.
 
 # Pride Blob Emojis
 
-## Download my iOS sticker pack that contains all the emojis shown [Here] (http://apple.co/2wSYpnN)
+##Pride Blobs Sticker Pack made by Mae Tia Farris
+
+<br><br><br>
+
+[![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
+
+<br><br><br>
+
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/0.jpg "Preview 1")
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/1.jpg "Preview 2")
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/2.jpg "Preview 3")
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/3.jpg "Preview 4")
 
 <br><br><br>
 
