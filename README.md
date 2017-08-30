@@ -5,7 +5,7 @@ please credit me. I have taken a lot of time to make this repo. The blobs are
 the hardest part as i had over 170 that didn't have names. so i needed to rename them.
 
 
-<a href="https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+<a href="https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8" target="_blank"><img src="http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg width="135" height="40" /></a>
 
 <br><br><br>
 
