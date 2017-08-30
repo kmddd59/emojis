@@ -7,6 +7,10 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 <br><br><br>
 
 ### Pride Blobs Sticker Pack made by Mae Tia Farris
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png "AppIcon")
+
+<br><br><br>
+
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
 
 <br><br><br>
