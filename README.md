@@ -6,7 +6,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
-### I made an app feel free to look at it 
+### Pride Blobs Sticker Pack made by Mae Tia Farris
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/0.jpg "Preview 1")
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/1.jpg "Preview 2")
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/2.jpg "Preview 3")
