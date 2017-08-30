@@ -8,7 +8,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 ### I made an app feel free to look at it 
 
-[![Install My App](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg)](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
+[![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
 
 
 <br><br><br>
