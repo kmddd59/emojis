@@ -7,12 +7,14 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 <br><br><br>
 
 ### Pride Blobs Sticker Pack made by Mae Tia Farris
+[![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
+
+<br><br><br>
+
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/0.jpg "Preview 1")
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/1.jpg "Preview 2")
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/2.jpg "Preview 3")
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/3.jpg "Preview 4")
-[![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
-
 
 <br><br><br>
 
