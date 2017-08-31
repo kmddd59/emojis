@@ -14,8 +14,7 @@
 
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg “Install”)](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
 
-<br><br><br>
-
+<br><br>
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/0.jpg “Preview 1”)
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/1.jpg “Preview 2”)
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/2.jpg “Preview 3”)
