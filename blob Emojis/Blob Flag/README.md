@@ -8,11 +8,11 @@
 
 <br><br><br>
 
-![icon](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png “AppIcon”)
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png “AppIcon”)
 
 <br><br><br>
 
-[[](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg “Install”)](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
+![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg “Install”)](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
 
 <br><br><br>
 
