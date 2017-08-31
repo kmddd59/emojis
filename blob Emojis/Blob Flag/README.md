@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png “AppIcon”)
+![icon](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png “AppIcon”)
 
 <br><br><br>
 
