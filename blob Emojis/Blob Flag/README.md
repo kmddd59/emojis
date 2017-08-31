@@ -5,6 +5,9 @@
 <br><br><br>
 
 ### Pride Blobs Sticker Pack made by Mae Tia Farris
+
+<br><br><br>
+
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png “AppIcon”)
 
 <br><br><br>
