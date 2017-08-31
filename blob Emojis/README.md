@@ -246,5 +246,6 @@ A list of my "pride" blobs is at the bottom.
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobSwitzerlandPride.png "BlobSwitzerlandPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobFrancePride.png "BlobFrancePride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobUnitedKingdomPride.png "BlobUnitedKingdomPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobCanadaPride.png "BlobCanadaPride")
 
 <br><br><br>
