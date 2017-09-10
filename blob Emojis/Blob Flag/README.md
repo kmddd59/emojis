@@ -3,6 +3,7 @@
 ### Pride Blobs Sticker Pack made by Mae Tia Farris
 
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png "AppIcon")
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/Scan.PNG "QR Code")
 
 <br><br><br>
 
