@@ -464,6 +464,8 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
+# BotEmojis
+
 ## Used Discord SelfBot to download a all my emojis
 
 
