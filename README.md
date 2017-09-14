@@ -9,6 +9,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ### Pride Blobs Sticker Pack made by Mae Tia Farris
 
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png "AppIcon")
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/Scan.PNG "QR Code")
 
 <br><br><br>
 
@@ -349,7 +350,6 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
-
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAchilleanPride.png "BlobAchilleanPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolamoryPride.png "BlobPolamoryPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAgenderFluxPride.png "BlobAgenderFluxPride")
@@ -363,6 +363,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobAutigenderPride.png "BlobAutigenderPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBigenderPride.png "BlobBigenderPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBisexualPride.png "BlobBisexualPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBisexualPride2.png "BlobBisexualPride alternate version")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemiboyPride.png "BlobDemiboyPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobDemigirlPride.png "BlobDemiboyPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobLesbianPride.png "BlobLesbianPride")
@@ -371,6 +372,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobRainbowPride.png "BlobRainbowPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobRainbowPrideOldFlag.png "BlobRainbowPrideOldFlag")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobTrans.png "BlobTransgenderPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBlackHawksPride.png "BlobBlackHawksPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobThinkingTrans.png "BlobThinkingTransgenderPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobGenderQuestioningPride.png "BlobGenderQuestioningPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolysexualPride.png "BlobPolysexualPride")
