@@ -16,6 +16,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 <br><br><br>
 
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
+[![]( "Install")](https://github.com/kmddd59/emojis/raw/master/AndroidApp/app-release-3.apk)
 
 <br><br><br>
 
