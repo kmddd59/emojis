@@ -6,6 +6,16 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
+# things to know before downloading the android app
+
+## Allowing Unknown Sources
+1) Open your device's Settings app.
+2) Scroll down and tap Security. It's in the "Personal" section of the menu.
+3) Slide Unknown sources to "On"
+4) Tap OK. You can now install apps from sources outside the Google Play Store.
+
+<br><br><br>
+
 # Blob Pride Emojis
 
 ## Sticker Pack made by Mae Tia Farris
