@@ -8,6 +8,7 @@ A list of my "pride" blobs is at the bottom.
 
 <br><br><br>
 
+![](https://cdn.discordapp.com/emojis/354140092866101249.png "BlobCannibal")
 ![](https://cdn.discordapp.com/emojis/317006481021206529.png "b1nzyblob")
 ![](https://cdn.discordapp.com/emojis/317006481675255809.png "blobangry")
 ![](https://cdn.discordapp.com/emojis/317006481851678721.png "blobastonished")
