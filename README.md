@@ -59,7 +59,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobRainbowPride.png "BlobRainbowPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobRainbowPrideOldFlag.png "BlobRainbowPrideOldFlag")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobTrans.png "BlobTransgenderPride")
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBlackHawksPride.png "BlobBlackHawksPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBlackHawksTransPride.png "BlobBlackHawksTransPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobThinkingTrans.png "BlobThinkingTransgenderPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobGenderQuestioningPride.png "BlobGenderQuestioningPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobPolysexualPride.png "BlobPolysexualPride")
@@ -81,6 +81,7 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobUnitedKingdomPride.png "BlobUnitedKingdomPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobCanadaPride.png "BlobCanadaPride")
 ![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobJapanPride.png "BlobJapanPride")
+![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/BlobBlackHawksPride.png "BlobBlackHawksPride")
 
 <br><br><br>
 
