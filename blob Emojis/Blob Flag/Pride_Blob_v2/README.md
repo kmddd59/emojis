@@ -14,25 +14,9 @@
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/1_ipadpro.png)
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/1_iphone6plus.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/2_ipad.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/2_ipadpro.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/2_iphone4.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/2_iphone5.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/2_iphone6.png)
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/2_iphone6plus.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/3_ipad.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/3_ipadpro.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/3_iphone4.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/3_iphone5.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/3_iphone6.png)
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/3_iphone6plus.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/4_ipad.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/4_ipadpro.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/4_iphone4.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/4_iphone5.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/4_iphone6.png)
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/en-US/4_iphone6plus.png)
 
 <br><br><br>
