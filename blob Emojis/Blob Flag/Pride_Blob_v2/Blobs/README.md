@@ -76,7 +76,7 @@
 <br><br><br>
 
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICONv2.png "AppIcon V2")
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/PrideBlobsV2 "PrideBlobsV2")
+![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/PrideBlobsV2.png "PrideBlobsV2")
 
 <br><br><br>
 
