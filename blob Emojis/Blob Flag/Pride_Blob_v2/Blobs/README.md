@@ -1,6 +1,9 @@
 # Blob Pride Emojis
 
-### Pride Blobs Sticker Pack made by Mae Tia Farris
+## Pride Blobs Sticker Pack made by Mae Tia Farris
+
+### All LGBTQ+ blobs are under copyright ask before you use them
+© Mae Tia Farris 2017
 
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICON.png "AppIcon")
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/Scan.PNG "QR Code")
