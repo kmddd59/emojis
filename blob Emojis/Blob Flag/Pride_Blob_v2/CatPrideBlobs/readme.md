@@ -6,6 +6,10 @@
 
 <br><br><br>
 
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/CatPrideBlobs.png "Scan")
+
+<br><br><br>
+
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/cat-pride-blobs/id1322768072?mt=8)
 
 <br><br><br>
