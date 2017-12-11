@@ -2,7 +2,7 @@
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/AppICONv3.png "AppIcon V3")
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/AppICONv3.png "AppIcon V3")
 
 <br><br><br>
 
@@ -10,50 +10,50 @@
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/cat1.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/cat2.png)
-![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/cat3.png)
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/cat1.jpg)
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/cat2.jpg)
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/cat3.jpg)
 
 <br><br><br>
 
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAchilleanHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAgenderFluxHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAgenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAmbonecHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAndrogyneHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAquarigenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAroFluxHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAromanticHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAsexualHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAutigenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAutisticHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobBigenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobBisexualHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiBoyHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemienbyHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemigenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiGirlHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiRomanticHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiSexualHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDiamoricHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobGayHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobgenderfluidHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobGenderfluxHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobGenderQueerHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobgenderQuestioningHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobIntergenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobIntersexHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobLesbianHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobMaveriqueHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNeurogenderHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNeutroisHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNonbinaryBoyHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNonbinaryGirlHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNonbinaryHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobPansexualHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobPolyamoryHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobPolysexualHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobRainbowdisabilityHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobSappicHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobTransHeart.png") ![]
-![](https://github.com/kmddd59/emojis/raw/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobTrigenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAchilleanHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAgenderFluxHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAgenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAmbonecHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAndrogyneHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAquarigenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAroFluxHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAromanticHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAsexualHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAutigenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobAutisticHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobBigenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobBisexualHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiBoyHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemienbyHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemigenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiGirlHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiRomanticHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDemiSexualHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobDiamoricHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobGayHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobgenderfluidHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobGenderfluxHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobGenderQueerHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobgenderQuestioningHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobIntergenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobIntersexHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobLesbianHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobMaveriqueHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNeurogenderHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNeutroisHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNonbinaryBoyHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNonbinaryGirlHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobNonbinaryHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobPansexualHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobPolyamoryHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobPolysexualHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobRainbowdisabilityHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobSappicHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobTransHeart.png") ![]
+![](https://raw.githubusercontent.com/kmddd59/emojis/master/blob%20Emojis/Blob%20Flag/Pride_Blob_v2/CatPrideBlobs/CatBlobTrigenderHeart.png") ![]
