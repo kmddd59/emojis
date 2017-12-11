@@ -3,9 +3,6 @@
 <br><br><br>
 
 ![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/AppICONv3.png "AppIcon V3")
-
-<br><br><br>
-
 ![](https://raw.githubusercontent.com/kmddd59/emojis/master/AppStorePreview/CatPrideBlobs.png "Scan")
 
 <br><br><br>
