@@ -12,7 +12,6 @@
 
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
 
-[![](https://discordapp.com/api/guilds/310081699478241290/embed.png)](https://discord.gg/qYmvd6f "Safety Trans")
 <br><br><br>
 
 ![](https://github.com/kmddd59/emojis/raw/master/AppStorePreview/0.jpg "Preview 1")
