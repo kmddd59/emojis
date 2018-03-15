@@ -6,14 +6,6 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 
 <br><br><br>
 
-# things to know before downloading the android app
-
-## Allowing Unknown Sources
-1) Open your device's Settings app.
-2) Scroll down and tap Security. It's in the "Personal" section of the menu.
-3) Slide Unknown sources to "On"
-4) Tap OK. You can now install apps from sources outside the Google Play Store.
-
 <br><br><br>
 
 # Blob Pride Emojis
@@ -26,7 +18,6 @@ the hardest part as i had over 170 that didn't have names. so i needed to rename
 <br><br><br>
 
 [![](http://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg "Install")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
-[![](https://github.com/kmddd59/emojis/raw/master/AndroidApp/download-apk.png "Install")](https://github.com/kmddd59/emojis/releases/latest)
 
 <br><br><br>
 
