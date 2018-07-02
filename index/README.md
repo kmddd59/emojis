@@ -1,5 +1,5 @@
 # Discord BotEmojis
-[![](http://wp.production.patheos.com/blogs/marketplacefaith/files/2015/12/Next_Arrow.svg_.png "Next")](https://itunes.apple.com/us/app/pride-blobs/id1272260229?mt=8)
+
 <br><br><br>
 
 ![](https://github.com/kmddd59/emojis/raw/master/Discord%20Server%20Emotes/BotEmojis/337610298678706186-LGBTQIAUnited/352250109217734656-Hug.png)
